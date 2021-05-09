@@ -1,0 +1,5 @@
+# Hypnosis Mist NPA
+The "NPA" Stands for "Negative Pre Alpha", because this script SHOULD not be relesed yet.
+This is a test so the scripts inside are not made my me.
+All questions will be answerd in the discord server (https://discord.gg/PdTzjBTJ)
+
